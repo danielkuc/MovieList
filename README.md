@@ -1,3 +1,7 @@
+# A simple one page react app displaying highest grossing films from recent years.
+
+App uses bootstrap, fetch to grab static data from public dir and display it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
